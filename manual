@@ -1,0 +1,38 @@
+# Sumário
+- [Titulo Principal].(#titulo-principal)
+- [Sub-titulo 1].(#sub-titulo-1)
+- [Sub-titulo 2].(#sub-titulo-2)
+- [Sub-titulo de nivel 3].(#subtitulo3)
+
+# Titulo Princial
+Conteudo do titulo principal...
+
+## Sub-título 1
+Conteudo do sub-titulo 1...
+
+## Sub-Titulo 2
+Conteudo do sub-titulo 2...
+
+### Sub-Titulo de nivel 3
+conteudo do sub-titulo de nivel 3
+
+# Vantagens
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+4. Etc...
+
+# Exemplo com códigos
+Isto e um exemplo de marcação com codigo em Python
+```python
+print("Olá mundo")
+```
+
+Isto é um exemplo de marcação com código de bash
+```bash
+apt-get install meu-software
+apt-get install dependencia1 dependencia2
+```
+
+Para baixar nossa ferramenta de diagnostico .[Clique aqui].(https:
